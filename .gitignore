@@ -1,2 +1,6 @@
 .venv
 data
+__pycache__/
+
+# Ignore session files created by telethon
+*.session
