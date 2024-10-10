@@ -1,7 +1,6 @@
 .venv
 !venv/.gitkeep
-data
-__pycache__/
+data/
 
 # Ignore session files created by telethon
 *.session
